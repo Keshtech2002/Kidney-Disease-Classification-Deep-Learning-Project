@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PCAdmin/Documents/Keshtech/DSML/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/ca3d1621d67d4897a3fd8e8f975c1e61/artifacts
+end_time: 1741870353385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca3d1621d67d4897a3fd8e8f975c1e61
+run_name: upbeat-jay-779
+run_uuid: ca3d1621d67d4897a3fd8e8f975c1e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741870336017
+status: 4
+tags: []
+user_id: PCAdmin

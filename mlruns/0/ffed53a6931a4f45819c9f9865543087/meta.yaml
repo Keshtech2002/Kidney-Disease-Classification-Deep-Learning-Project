@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PCAdmin/Documents/Keshtech/DSML/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/ffed53a6931a4f45819c9f9865543087/artifacts
+end_time: 1741870946046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffed53a6931a4f45819c9f9865543087
+run_name: smiling-stag-932
+run_uuid: ffed53a6931a4f45819c9f9865543087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741870926609
+status: 4
+tags: []
+user_id: PCAdmin
