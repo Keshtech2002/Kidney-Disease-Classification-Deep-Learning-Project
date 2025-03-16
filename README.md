@@ -37,3 +37,8 @@ conda activate cnncls
 ```bash
 pip install -r requirements.txt
 ```
+
+### ECR URI
+```
+839883277347.dkr.ecr.eu-north-1.amazonaws.com/kidney
+```
