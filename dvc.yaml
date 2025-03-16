@@ -12,6 +12,7 @@ stages:
     cmd: python src/cnnClassifier/pipeline/stage_02_prepare_base_model.py
     deps:
       - src/cnnClassifier/pipeline/stage_02_prepare_base_model.py
+      - artifacts/data_ingestion/kidney-ct-scan-image
       - config/config.yaml
     params:
       - IMAGE_SIZE
