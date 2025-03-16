@@ -769,3 +769,23 @@ x==========x]
 [2025-03-13 14:52:35,416: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-03-16 07:20:42,202: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-16 07:20:42,206: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-16 07:20:42,208: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-16 07:20:42,209: INFO: common: created directory at: artifacts]
+[2025-03-16 07:20:42,210: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-16 07:20:42,211: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-16 07:21:04,310: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-16 07:21:06,355: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-03-16 07:25:22,351: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-16 07:25:22,373: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-16 07:25:22,375: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-16 07:25:22,375: INFO: common: created directory at: artifacts]
+[2025-03-16 07:25:22,376: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-16 07:25:22,378: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-16 07:25:44,364: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-16 07:25:46,014: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
